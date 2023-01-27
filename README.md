@@ -1,5 +1,5 @@
 # Alat-untuk-tunanetra
-S.W.E.E.T.S. (Seeing With Ears End Terrible Solitary)
+S.W.E.E.T.S. (Seeing With Ears Ends Terrible Solitary)
 
 
 
