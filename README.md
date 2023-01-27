@@ -19,7 +19,7 @@ Kembali ke tunanetra, rancangan awal saya ingin menggunakan pixy camera dan ultr
 
 Namun, karena harga modul pixy camera relatif mahal untuk saya jadi saya hanya menggunakan ultrasonic sensor sebagai alat pengukur jaraknya toh juga pada akhirnya yang dapat dikonsumsi penggunanya hanya berupa suara. (Tapi, kalo pake pixy camera bisa face recognition, object recognition, dll. Cuman ya mahal bang.)
 
-Mikrokontroller pilihan saya jatuh pada Lolin wemos esp8266, namun entah kenapa Lolin yang saya beli tidak dapat berfungsi dg baik, jadi saya menggunakan Arduino Uno yang memang sudah saya punya.
+Mikrokontroller pilihan saya jatuh pada Lolin wemos esp8266, namun entah kenapa Lolin yang saya beli tidak dapat berfungsi dg baik, jadi saya menggunakan Arduino Uno yang memang sudah saya punya (kalo mau pake arduino pro moni atau arduio nano juga bisa sepertinya, tinggal setting portnya aja).
 
 
 
