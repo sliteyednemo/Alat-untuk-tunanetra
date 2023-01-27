@@ -23,4 +23,6 @@ Mikrokontroller pilihan saya jatuh pada Lolin wemos esp8266, namun entah kenapa 
 
 
 
-Untuk sementara waktu, Project ini saya anggap berhasil dan bekerja dengan baik. Tapi mungkin di waktu yang akan datang saya akan belajar tentang A.I. Camera untuk menambahkan input pada alat ini, agar pengguna bisa mengetahui ada benda apa yang berada di sekitarnya bukan hanya sebatas tahu batas aman untuk berjalan saja. 
+Untuk sementara waktu, Project ini saya anggap berhasil dan bekerja dengan baik (Prototype). Tapi mungkin di waktu yang akan datang saya akan belajar tentang A.I. Camera untuk menambahkan input pada alat ini, agar pengguna bisa mengetahui ada benda apa yang berada di sekitarnya bukan hanya sebatas tahu batas aman untuk berjalan saja. juga memperkecil ukurannya agar lebih nyaman ketika dipakai.
+
+Sekian,
